@@ -4,7 +4,7 @@
 
 ## Зависимости
 
-1. pkolt_utils (https://github.com/pkolt/pkoltutils)
+1. pkoltutils (https://github.com/pkolt/pkoltutils)
 2. trans (http://pypi.python.org/pypi/trans/1.2)
 
 
